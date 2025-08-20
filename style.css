@@ -86,7 +86,7 @@
 input{
     width: 400px;
     height: 60px;
-    background-color: antiquewhite;
+    background-color: rgb(123, 255, 0);
     margin: 25px;
     border: 1px;
     border-radius: 10px;
@@ -94,10 +94,10 @@ input{
 }
 
 buttom {
-    background-color: #c07212;
+    background-color: #cc0000;
     height: 70px;
     width: 125px;
-    color:#eaece5;
+    color:#0062ff;
     border: 0px;
     border-radius:10px;
     margin-top:50px;
@@ -111,7 +111,7 @@ buttom.hover{
     background-color: #f88e0c;
     color: wite;
     transform: translateY(-3px);
-    box-chadow: 0px 10px 15px #f1bd73;
+    box-chadow: 0px 10px 15px #b407b4;
     translition-duration:0.3s;
 }
 
